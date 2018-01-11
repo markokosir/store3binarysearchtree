@@ -1,6 +1,6 @@
 ## Store 3 - Binary Search Tree
 
-This is a compilation of a store programs I wrote for academic purposes using three different data structures from scratch.Store 3 is implemented using binary search tree. When the program starts it allocates memory for 4 products on heap. Since this version is implemented using binary  search tree, therefore it is possible to allocate memory during runtime. To keep things simple I decided to sort products by a code value, so when displaying products on the screen, they will be printed out in an increasing order.
+Three different data structures written from scratch. Store 3 is implemented using binary search tree. When the program starts it allocates memory for 4 products on heap. Since this version is implemented using binary  search tree, therefore it is possible to allocate memory during runtime. To keep things simple I decided to sort products by a code value, so when displaying products on the screen, they will be printed out in an increasing order.
 
 Files included:
 * products.txt - sample database
